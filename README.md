@@ -7,7 +7,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 1. Clone the repo
 
 ```bash
-git clone https://github.com/SavaniJenil/portfolio_app.git
+git clone https://github.com/JayGhoriRN/PortFolio_app.git
 ```
 
 2. Install dependencies
